@@ -10,4 +10,4 @@ $./wifi.sh
 
 
 
-![alt text](https://cdn1.imggmi.com/uploads/2019/2/8/9f9039129e8377449b6d26269c3ff359-full.png)
+![alt text](http://i68.tinypic.com/307vlzc.jpg)
