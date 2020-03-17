@@ -1,4 +1,4 @@
-# macOS-Terminal-wifi-scanner
+# macOS Terminal wifi scanner using shellscript and AWK
 
 This is a wifi scanner from Terminal using airport and awk to display in nice organized output with colors.
 
@@ -10,4 +10,4 @@ $./wifi.sh
 
 
 
-![alt text](http://i68.tinypic.com/307vlzc.jpg)
+<img width="998" alt="dBi" src="https://github.com/nixpal/macOS-Terminal-wifi-scanner/blob/master/wiscanner.png">
