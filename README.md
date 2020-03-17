@@ -1,4 +1,4 @@
-# macOS Terminal wifi scanner using shellscript and AWK
+# macOS Terminal wifi scanner using BASH and AWK
 
 This is a wifi scanner from Terminal using airport and awk to display in nice organized output with colors.
 
